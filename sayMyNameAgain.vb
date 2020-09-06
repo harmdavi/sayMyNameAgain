@@ -2,6 +2,7 @@
 'RCET0265
 'Fall 2020
 'sayMyNameAgain
+'
 
 Option Strict On
 Option Explicit On
@@ -10,6 +11,7 @@ Option Compare Text
 
 
 Module sayMyNameAgain
+
 
     Sub Main()
         Dim userInput As String
